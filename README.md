@@ -254,3 +254,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 🚧 Mobile App Integration (Future)
 
 ---# ecoride-gui
+# ecoride-gui
